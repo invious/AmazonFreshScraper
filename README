@@ -1,0 +1,2 @@
+Install Scrapy and run
+./scrapy crawl amzn
